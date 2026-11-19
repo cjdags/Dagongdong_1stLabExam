@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\Dagongdong_1stLabExam\Dagongdong_1stLabExam\bin\Debug\Dagongdong_Activity5.exe.config
+C:\Users\User\Downloads\Dagongdong_1stLabExam\Dagongdong_1stLabExam\bin\Debug\Dagongdong_Activity5.exe
+C:\Users\User\Downloads\Dagongdong_1stLabExam\Dagongdong_1stLabExam\bin\Debug\Dagongdong_Activity5.pdb
+C:\Users\User\Downloads\Dagongdong_1stLabExam\Dagongdong_1stLabExam\obj\Debug\Dagongdong_1stLabExam.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Dagongdong_1stLabExam\Dagongdong_1stLabExam\obj\Debug\Dagongdong_Activity5.Form1.resources
+C:\Users\User\Downloads\Dagongdong_1stLabExam\Dagongdong_1stLabExam\obj\Debug\Dagongdong_Activity5.Form2.resources
+C:\Users\User\Downloads\Dagongdong_1stLabExam\Dagongdong_1stLabExam\obj\Debug\Dagongdong_Activity5.Properties.Resources.resources
+C:\Users\User\Downloads\Dagongdong_1stLabExam\Dagongdong_1stLabExam\obj\Debug\Dagongdong_1stLabExam.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Dagongdong_1stLabExam\Dagongdong_1stLabExam\obj\Debug\Dagongdong_1stLabExam.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Dagongdong_1stLabExam\Dagongdong_1stLabExam\obj\Debug\Dagongdong_Activity5.exe
+C:\Users\User\Downloads\Dagongdong_1stLabExam\Dagongdong_1stLabExam\obj\Debug\Dagongdong_Activity5.pdb
